@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Chef-Tiu",
+        "image": "/assets/project1.jpg",
+        "description": "POS Website created with React.js and Laravel using Minimals template. Handles transactions for ordering meals and setting up reservations.",
+        "demo": null,
+        "source": null
+    },
+    {
+        "title": "Elektro-Knicks",
+        "image": "/assets/project2.png",
+        "description": "A sample e-commerce site created with MERN that allows the user to purchase outdated technology. Comes with an Admin Panel.",
+        "demo": "https://elektro-knicks.vercel.app/",
+        "source": "https://gitlab.com/Fawx0902/capstone3/"
+    },
+    {
+        "title": "Meow Tapper",
+        "image": "/assets/project3.png",
+        "description": "An android game made in Java using Android Studio. This game is a clicker game with a cat theme inspired by other clicker games such as Cookie Clicker.",
+        "demo": null,
+        "source": "https://github.com/Fawx0902/MeowTapper"
+    }
+]
